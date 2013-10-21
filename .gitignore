@@ -1,0 +1,26 @@
+1-greek-xml-structure-guided.pl
+2latin.tess
+Greek.xml
+Icon?
+Latin.xml
+accented_betagreek.tess
+archimedes.pl
+betagreek.tess
+csv-to-cache.pl
+fixer-beta-to-uni.pl
+fixer-tokens-to-lemmas.pl
+greek-v-latin.pl
+greek_dictionary.txt
+greekdict.pl
+lemma-test.pl
+lemmatize.pl
+lemmatized_beta_greek.tess
+list_of_missing.txt
+mytest.tess
+reader.pl
+trans1 (Chris Forstall's conflicted copy 2013-09-05).csv
+trans1 (James Gawley's conflicted copy 2013-09-06).csv
+trans1.csv
+trans2.csv
+uni_greek.tess
+xml-structure-guided.pl

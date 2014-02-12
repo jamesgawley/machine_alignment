@@ -1,3 +1,4 @@
+#This software was developed 2013 by James Gawley Creative Commons General Public Use license applies.
 use strict;
 use warnings;
 
